@@ -1,5 +1,4 @@
 ﻿# Champions of Europe
-The purpose of this projec
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
