@@ -2,7 +2,7 @@
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Netanel Friorino  | The Cooper Union | Mechanical Engineering | Incoming Junior
+| Netanel Fiorino  | The Cooper Union | Mechanical Engineering | Incoming Junior
 
 ![Headstone Image](https://img.fifa.com/image/upload/t_s2/fvbhrg5b2zq8dszck6c8.jpg)
   
